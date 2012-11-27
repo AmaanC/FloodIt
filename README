@@ -1,1 +1,3 @@
-Just a plain HTML file.
+A grid of six colors of tiles starts off randomly. The player can do a “flood fill” on the top left tile, changing the color of any adjacent tiles of the same color. The player wins if they are able to make the entire board a single color within a certain number of moves.
+
+Made this trying to learn how to use the HTML5 Canvas.
